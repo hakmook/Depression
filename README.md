@@ -28,4 +28,4 @@ Before you run, please provide your input and output directories in lines 157 & 
 but is useful to process multiple subjects' data (please see line 54).
 
 If you are a Mac user, then run the code in terminal:
-   python subject_8003_model.py
+python subject_8003_model.py
