@@ -27,5 +27,5 @@ we collect 1000 posterior samples preceded by 1000 tuning samples. Please find m
 Before you run, please provide your input and output directories in lines 157 & 158. Index_list = [8003] is not necessary 
 but is useful to process multiple subjects' data (please see line 54).
 
-If you are a Mac user, then run the code in terminal:
+If you are a Mac user, then run the code in terminal,
 python subject_8003_model.py
