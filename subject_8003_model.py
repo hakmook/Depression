@@ -154,8 +154,8 @@ def run_model(index, in_dir, out_dir, data_filename, func_filename, struct_filen
 
 # initializing parameters
 index_list = [8003]
-in_dir = "/Users/hakmookkang/Dropbox/Research/GRANTS/HakmookKang/R21_DoubleFusion/data/YoungAdults/"
-out_dir = "/Users/hakmookkang/Dropbox/Research/GRANTS/HakmookKang/R21_DoubleFusion/results/GNB_doublefusion/"
+in_dir = "/Users/hakmookkang/Dropbox/"
+out_dir = "/Users/hakmookkang/Dropbox/output/"
 data_filename = "ROI_timeseries_data"
 func_filename = "DMN_MeanFunctional_Connectivity"
 struct_filename = "DMN_StructuralConnectivity"
